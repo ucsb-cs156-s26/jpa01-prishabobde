@@ -1,9 +1,5 @@
-# STARTER-jpa01
+# jpa01-prishabobde
 
-* TODO: Change the title of this README (above)
-  in the text `# STARTER-jpa01` above
-  to match the name of your repo, i. e., `jpa01-yourgithubid`, then delete
-  this TODO item.
 
 * TODO: Correct the "deployed at" link to app on Dokku (below)
   then delete this TODO.  Replace it with 
